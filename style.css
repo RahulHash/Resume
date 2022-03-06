@@ -110,4 +110,7 @@ li{
         margin-left: 1%;
         margin-right: 1%;
     }
-}
+    
+    .second-section{
+        padding:.5em;
+    }
